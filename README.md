@@ -10,3 +10,6 @@ The accompanying repository contains two relevant shapefiles used for analysis i
 2) post_route_cities contains the locations of the post towns along these routes.
 
 Shape files with historical boundaries can be downloaded from https://data2.nhgis.org/main .
+
+Additional files include:
+1) petitions sent to congress, digitized by Blackhawk, et. al (2020).
